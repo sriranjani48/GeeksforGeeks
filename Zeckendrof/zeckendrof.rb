@@ -1,6 +1,4 @@
 class ZeckValue
-	
-
 
 	def fibmax(num)
 		return num if num <= 2
